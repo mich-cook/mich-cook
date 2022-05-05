@@ -4,7 +4,7 @@
 
 🌱 I’m currently modernizing my skillset with popular technologies (react, graphql, aws, firebase, gcp, docker, etc). I've been around long enough that they're not difficult - just different.
 
-💞️ I’m looking to find the next step in my career that builds new things and hopefully contributes to the open source ecosystem we use.
+<!-- 💞️ I’m looking to find the next step in my career that builds new things and hopefully contributes to the open source ecosystem we use. -->
 <!-- - 📫 How to re -->
 
 <!---
